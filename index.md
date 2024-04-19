@@ -7,9 +7,9 @@ hero:
   text: 'Sitio de fans del universo.'
   tagline: 'Hecho por fans, para fans.'
 features:
-  - title: 'Dropfleet Commander V1.3.1'
+  - title: 'Dropfleet Commander V1.7.0'
     link: './dfc/'
-    details: 'Reglas actualizadas de Dropfleet Commander.'
+    details: 'Reglas actualizadas de Dropfleet Commander y FAQ v2.6.1.'
     icon:
       light: '/img/ui/moon-landing.png'
       dark: '/img/ui/moon-landing.dark.png'
@@ -17,7 +17,7 @@ features:
       height: '100px'
   - title: 'Dropzone Commander V2.2.0'
     link: './dzc/'
-    details: 'Reglas actualizadas de Dropzone Commander.'
+    details: 'Reglas actualizadas de Dropzone Commander y FAQ v2.4.'
     icon:
       light: '/img/ui/orbit.png'
       dark: '/img/ui/orbit.dark.png'

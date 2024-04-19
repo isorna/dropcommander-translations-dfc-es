@@ -1,12 +1,12 @@
 ---
 title: 'Contenidos'
-excerpt: 'Dropfleet Commander V1.3.1'
+excerpt: 'Dropfleet Commander V1.7.0'
 position: 1
 ---
 
 # {{ $frontmatter.title }}
 
-## Dropfleet Commander  V1.3.1
+## Dropfleet Commander  V1.7.0
 
 [Tierra, 2673](earth-2673)
 
