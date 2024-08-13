@@ -4,7 +4,7 @@ excerpt: 'Las naves pueden llevar a bordo naves subordinadas más pequeñas en f
 position: 9
 ---
 
-# Lanzamiento de activos
+# {{ $frontmatter.title }}
 
 Las naves pueden llevar a bordo naves subordinadas más pequeñas en forma de naves de ataque como módulos de aterrizaje, cazas, bombarderos o municiones como torpedos que causen destructivos efectos en las naves objetivo y sistemas similares. Todos estos elementos se denominan en Dropfleet **Activos de lanzamiento** y todos siguen las mismas reglas de juego. Los activos de lanzamiento están representados por fichas en la mesa, bien en forma de marcadores o peanas con modelos apropiados.
 
@@ -38,8 +38,9 @@ Cada transporte tiene una característica para indicar su Capacidad de Lanzamien
   </tbody>
 </table>
 
-* **Carga:** El tipo de activo de lanzamiento que el transporte puede utilizar. Puede tener una selección de varios tipos pero cada trasnporte está limitado por su propia capacidad de lanzamiento total y su habilizad de lanzamiento.
+* **Carga:** El tipo de activo de lanzamiento que el transporte puede utilizar. Puede tener una selección de varios tipos pero cada trasnporte está limitado por su propia capacidad de lanzamiento total y su habilidad de lanzamiento.
 * **Lanzamiento:** Indica el número de marcadores que el transporte puede lanzar cada vez en un turno.
+* **Especial:** Indica las reglas especiales del transporte.
 
 ## Características de los Activos de lanzamiento
 
@@ -71,32 +72,29 @@ Los activos de lanzamiento generalmente funcionan de una manera similar a un per
       <td>1</td>
     </tr>
   </tbody>
-</table>
-
-<table>
   <thead>
     <tr>
       <th>Tipo</th>
       <th>Impulso</th>
-      <th>Mejora de Defensa de Punto</th>
+      <th colspan="3">Mejora de Defensa de Punto</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Caza UCM</td>
       <td>20&quot;</td>
-      <td>+3</td>
+      <td colspan="3">+3</td>
     </tr>
     <tr>
       <td>Nave de desembarco UCM</td>
       <td>3&quot;</td>
-      <td>-</td>
+      <td colspan="3">-</td>
     </tr>
   </tbody>
 </table>
 
 * **Impulso:** La máxima distancia que el Activo de lanzamiento puede viajar para alcanzar su objetivo en una misma fase.
-* **Puntería, Ataque, Daño&Especial:** Todas estas características funcionan exactamente igual que las características de los Sistemas de armas.
+* **Puntería, Ataque, Daño & Especial:** Todas estas características funcionan exactamente igual que las características de los Sistemas de armas.
 * **Mejora de Defensa de punto:** PD adicional añadido a una nave cuadno se usan sobre ésta.
 
 ## Lanzando Activos

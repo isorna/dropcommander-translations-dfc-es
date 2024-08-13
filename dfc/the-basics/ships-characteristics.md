@@ -89,7 +89,7 @@ Las fortalezas y debilidades de las diferentes naves y sistemas de armamento en 
 
 **Capacidad de lanzamiento -** Alguna naves son capaces de lanzar naves, módulos de aterrizaje y demás. Si la nave tiene capacidad de lanzamiento, se enseña aquí. Naves sin esa capacitar no tiene esta característica.
 
-:::note Observaciones de sigilo
+::: tip Observaciones de sigilo
 Esta nave puede reconocer un Clúster sin importar el valor de tonelaje del grupo de batalla.
 :::
 
@@ -109,7 +109,7 @@ La característica de radar nos enseña como de buena es la nave para detectar a
 
 ### Señal
 
-_La característica de se al nos dice como de visible es nuestra nave a los radares de las naves enemigas y desde que distancia pueden ser descubiertas. La mayoría de de naves tienen contramedidas, bengalas ECM(sistema de interferencias electrónicos) y otras tecnologías para ocultar o reducir la señal de la nave_.
+La característica de señal nos dice como de visible es nuestra nave a los radares de las naves enemigas y desde que distancia pueden ser descubiertas. La mayoría de de naves tienen contramedidas, bengalas ECM(sistema de interferencias electrónicos) y otras tecnologías para ocultar o reducir la señal de la nave.
 
 Estas contramedidas sonconsideradas en uso constante y son tenidas en cuenta para el resultado final de la señal de la nave. Ciertos tipos de daño, maniobras difíciles y disparo de armas puede incrementar la señal de la nave de forma temporal. En ciertas circunstancias la señal se puede reducir, como con la orden modo silencioso por ejemplo.
 
@@ -123,29 +123,29 @@ El casco son los puntos de daño que puede aguantar antes de quedar destruida. E
 
 ### Armadura (A)
 
-_En comparación con las naves civiles, las naves de guerra  siempre van acorazadas de una forma que son más resistentes al daño. Esto puede ir desde un blinjade mejor en los componentes e incorporar componentes duplicados de emergencia detrás de metros de grosor de blindaje_.
+En comparación con las naves civiles, las naves de guerra  siempre van acorazadas de una forma que son más resistentes al daño. Esto puede ir desde un blinjade mejor en los componentes e incorporar componentes duplicados de emergencia detrás de metros de grosor de blindaje.
 
 En términos de juego, la característica Armadura es una tirada de salvación en 1D6 contra cada punto de daño recibido en el casco expresado como 3+, 4+, etc. Cuando un barco está dañado, tira 1D6 por cada punto de daño infligido. Cada salvación por armadura exitosa previene un punto de daño al casco.
 
 ### Defensa de punto (PD)
 
-_Todas las naves de combate llevan algún tipo de defensa de punto que le protege contra pequeños objetos. Los puntos de defensa son equivalente a contramedidas de las unidades de tierra. Los sistemas identifica y neutraliza las posibles amenazas hacia la naves como meteoritos o misiles nucleares_.
+Todas las naves de combate llevan algún tipo de defensa de punto que le protege contra pequeños objetos. Los puntos de defensa son equivalente a contramedidas de las unidades de tierra. Los sistemas identifica y neutraliza las posibles amenazas hacia la naves como meteoritos o misiles nucleares.
 
-_Las armas pueden ser de diferentes tipos: lásers, armas de gauss, misiles, antiaéreos, arcos de plasma, etc. Todos ellos son pequeños, sistemas rápidos de disparar con el tiempo de respuesta necesario para interceptar amenazas en el corto alcance_.
+Las armas pueden ser de diferentes tipos: lásers, armas de gauss, misiles, antiaéreos, arcos de plasma, etc. Todos ellos son pequeños, sistemas rápidos de disparar con el tiempo de respuesta necesario para interceptar amenazas en el corto alcance.
 
 Principalmente la defensa de punto depende más de la cantidad que la calidad. El número que indica esta característica es el número de dados que una nave puede tirar para hacer autodefensa al enemigo cuando ataca con armas que tengan la regla armas de corto alcance o sobre cazas, bombarderos o toreros. Estas reglas son explicadas en otro apartado.
 
-### Grupo (G)
+### Grupo (G){#group}
 
-Group indica los parámetros operativos normales para naves de esta clase dentro de la flota más grande. Las naves más pequeñas, como las fragatas, tenderán a operar en grupos de uno a cuatro del mismo tipo de nave que trabajan juntas, mientras que las naves grandes solo se pueden encontrar juntas de una en una o en pareja. La característica de Grupo se usa al elegir una flota antes del juego (ver Selección de Flota).
+Group indica los parámetros operativos normales para naves de esta clase dentro de la flota más grande. Las naves más pequeñas, como las fragatas, tenderán a operar en grupos de uno a cuatro del mismo tipo de nave que trabajan juntas, mientras que las naves grandes solo se pueden encontrar juntas de una en una o en pareja. La característica de Grupo se usa al elegir una flota antes del juego (ver [Selección de Flota](/es/dfc/building-your-fleet#the-fleet-roster)).
 
-### Tonelaje (T)
+### Tonelaje (T){#tonnage}
 
-Hay cuatro categorías de tonelaje en Dropfleet commander: Ligero (L), Mediano (M), Pesado (H) y Sùper pesado (S). **También hay naves que están entre dos categorías como L2 y H2. Así como la característica de grupo, el tonelaje se usa principalmente en la selección de flota ya que los jugadores tendrán a menudo que tener en cuenta el tonelaje de las naves bajo tu mando. El tonelaje también figura en las condiciones de victoria de los escenarios donde se usa el porcentaje de tonelaje de las naves que sobrevivió a la partida.
+Hay cuatro categorías de tonelaje en Dropfleet commander: **Ligero (L), Mediano (M), Pesado (H) y Sùper pesado (S)**. También hay naves que están entre dos categorías como L2 y H2. Así como la característica de grupo, el tonelaje se usa principalmente en la selección de flota ya que los jugadores tendrán a menudo que tener en cuenta el tonelaje de las naves bajo tu mando. El tonelaje también figura en las condiciones de victoria de los escenarios donde se usa el porcentaje de tonelaje de las naves que sobrevivió a la partida.
 
 ### Especial
 
-En esta sección están las reglas especiales que pueden aplicarse a la nave. Ésto representa las características particulares del diseño de una nave, habilidades especiales o debilidades que pueda tener la nave. La lista detallada de las reglas especiales se puede encontrar en la sección de reglas especiales.
+En esta sección están las reglas especiales que pueden aplicarse a la nave. Ésto representa las características particulares del diseño de una nave, habilidades especiales o debilidades que pueda tener la nave. La lista detallada de las reglas especiales se puede encontrar en la sección de [Reglas Especiales](/es/dfc/special-rules#ship-special-rules).
 
 Algunas naves tienen reglas únicas que son específicas para ese tipo de nave y esa facción, como sensor jamming abilities o bonus situacionales. Cualquier regla especial que no esté en la sección de la barra de estadísticas se mostrará en la siguiente barra de detalle de las reglas únicas que usa.
 
@@ -171,14 +171,15 @@ Cada sistema de armas tiene designando un arco de fuego. Hay cuatro o arcos **F 
 
 Los arcos de las armas normalmente son de 90 grados pero algunas sistemas de armas lo tienen restringido a 22 grados como el F(N). Las bases de las naves incluyen estos arcos para facilitar su uso, las crestas delgadas delinean los arcos delantero, lateral y trasero, y el área elevada en la parte delantera de la base muestra el arco estrecho delantero.
 
-_Por ejemplo una nave con tres perfiles de sistemas de armas. Una tiene un arco de F/S/R, el segundo tiene un arco de S/R y el tercero tiene un arco de F/S(Right)_.
+::: info _Por ejemplo una nave con tres perfiles de sistemas de armas. Una tiene un arco de F/S/R, el segundo tiene un arco de S/R y el tercero tiene un arco de F/S(Right)_.
 
 _En este caso el primer sistema de armas es capaz de disparar por todos los arcos (frontal, laterales o posterior)_.
 
 _El segundo sistema de armas puede disparar por los dos laterales o por la parte posterior_.
 
 _El último sistema de armas sólo puede disparar por el arco frontal y por su lateral derecho, al tener la anotación (Right)_.
+:::
 
 ### Especial de las armas
 
-Varios sistemas de armas tienen reglas especiales para reflejar sus efectos. Consulta las Reglas de armas especiales para obtener más información.
+Varios sistemas de armas tienen reglas especiales para reflejar sus efectos. Consulta las [Reglas de Armas Especiales](/es/dfc/special-rules#weapon-system-special-rules) para obtener más información.

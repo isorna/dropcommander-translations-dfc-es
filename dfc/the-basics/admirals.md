@@ -6,7 +6,7 @@ position: 3
 
 # {{ $frontmatter.title }}
 
-_Las flotas son incapaces de tener éxito en batalla sin un almirante competente. En situaciones cambiantes, la diferencia entre la victoria y la derrota suele venir marcada por las acciones y decisiones tomadas por los líderes de primera linea_.
+Las flotas son incapaces de tener éxito en batalla sin un almirante competente. En situaciones cambiantes, la diferencia entre la victoria y la derrota suele venir marcada por las acciones y decisiones tomadas por los líderes de primera linea.
 
 Los almirantes tienen un coste en puntos igual que las naves, pero a diferencia de éstas, no tienen una hoja de atributos típica. En su lugar, tienen su propia tabla de atributos de Almirante, como la mostrada a continuación:
 
@@ -33,9 +33,10 @@ Los almirantes tienen un coste en puntos igual que las naves, pero a diferencia 
 
 **Pts:** La cantidad en puntos que cuesta incluir el almirante en tu fuerza. Sólo se puede incluir un único almirante por flota.
 
-Tu almirante puede ser situado en cualquier nave de tu flota con un valor de Tonelaje de M, H o S. Si es situado en una nave de Tonelaje H, puedes aumentar tu nivel de almirante en 1 sin coste adicional.
+Tu almirante puede ser situado en cualquier nave de tu flota con un valor de Tonelaje de M, H o S. Si es situado en una nave de Tonelaje H, puedes aumentar tu nivel de almirante en 1 sin coste adicional. Si es situado en una nave de Tonelaje S, puedes aumentar el nivel de tu almirante en 2 sin coste adicional.
 
-Si es situado en una nave de Tonelaje S, puedes aumentar el nivel de tu almirante en 2 sin coste adicional. Estas subidas adicionales gratuitas, no obstante, no permiten exceder el máximo nivel permitido por el tamaño de batalla (ver Construyendo tu flota para detalles).
+::: tip _por ejemplo, un Almirante en un Battlecruiser en una partida de tamaño Escaramuza puede ser mejorado a un máximo de AV 3._
+:::
 
 ## Almirantes famosos
 
@@ -67,7 +68,7 @@ Cuando una carta es jugada o descartada por cualquier motivo, debe ser situada b
       <td>Puedes negar los efectos de la carta de mando enemiga.</td>
     </tr>
     <tfoot>
-      <th colspan="2"><em>“Esto demuestra que incluso un Shaltari puede caer en una trampa, si se prepara apropiadamente."</em></th>
+      <th colspan="2"><em>"Esto demuestra que incluso un Shaltari puede caer en una trampa, si se prepara apropiadamente."</em></th>
     </tfoot>
   </tbody>
 </table>

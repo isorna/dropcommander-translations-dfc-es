@@ -3,7 +3,7 @@ title: 'Reglas fundamentales'
 excerpt: 'Reglas fundamentales de Dropfleet Commander.'
 position: 4
 ---
-# Reglas fundamentales
+# {{ $frontmatter.title }}
 
 <script setup>
   import { data as pages } from '/documents.data'

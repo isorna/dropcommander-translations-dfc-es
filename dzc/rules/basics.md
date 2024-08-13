@@ -14,7 +14,7 @@ Models in Dropzone Commander are referred to as units. Sometimes a unit will be 
 
 **Hazard Suit Team** (35 pts) **EXOTIC**
 
-**Unit´s name** (Points cost) **Category** - This defines the unit’s role within a Battlegroup.
+**Unit´s name** (Points cost) **Category** - This defines the unit's role within a Battlegroup.
 
 <table>
   <thead>

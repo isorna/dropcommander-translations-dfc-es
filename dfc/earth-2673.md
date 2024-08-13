@@ -4,7 +4,7 @@ excerpt: 'Tras pasar 160 años como refugiados, la humanidad finalmente ha regre
 position: 2
 ---
 
-# Tierra, 2673
+# {{ $frontmatter.title }}
 
 Tras pasar 160 años como refugiados, la humanidad finalmente ha regresado a la Tierra.
 

@@ -3,7 +3,7 @@ title: 'Lo básico'
 excerpt: 'Reglas básicas de Dropfleet Commander.'
 position: 3
 ---
-# Lo básico
+# {{ $frontmatter.title }}
 
 <script setup>
   import { data as pages } from '/documents.data'

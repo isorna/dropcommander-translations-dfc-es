@@ -4,10 +4,9 @@ excerpt: 'Componentes necesarios para jugar a DZC.'
 position: 2
 ---
 
-# Componentes del juego
+# {{ $frontmatter.title }}
 
-## Dice
-## Dado
+## Dados
 
 Dropfleet uses six-sided dice throughout the game both for its ease of availability and robust handling characteristics. Most of the dice rolls players need to make require equalling or bettering a target number and are written as a number with a plus sign after it, i.e. 5+, meaning the dice must roll a 5 or 6 to succeed.
 Dropfleet utiliza dados de seis lados en todo el juego tanto por su facilidad de disponibilidad como de características de manejo robustas.La mayoría de los reproductores de dados deben hacer que requieran igual o mejorar un número objetivo y se escriben como un número con un signo más después, es decir, 5+, lo que significa que los dados deben rodar un 5 o 6 para tener éxito.
@@ -18,7 +17,6 @@ Al hacer referencia a los rollos de dados, las reglas se referirán a los dados 
 If you are asked to roll a D3, simply roll a D6 and a result of a 1 or a 2 would equal a 1, a result of 3 or 4 would equal a 2 and a result of 5 or 6 would equal a 3.
 Si se le pide que enrolle un D3, simplemente enrolle un D6 y el resultado de un 1 o un 2 fuera igual a un 1, un resultado de 3 o 4 igualaría un 2 y un resultado de 5 o 6 igualaría un 3.
 
-### Dice roll modifiers
 ### Modificadores de dados
 
 Certain special circumstances can mean that modifiers apply to dice rolls. These modifiers can be negative (e.g. -1 to the target number) or positive (e.g. +1 to the target number). Modifiers are always applied to the target number and they don t change the number you roll on the dice.
@@ -30,13 +28,11 @@ Los modificadores nunca pueden hacer que los resultados fueran imposibles o una 
 _For example, if you normally needed to roll a 4+ and had a +1 modifier to the target number you would only succeed on a roll of 5 or 6. Likewise if you needed a 5+ and had a -2 modifier, you would need a 3 or more to succeed (5+, with the minus 2 modifier = 3+ to succeed)_.
 _ Por ejemplo, si normalmente necesitara enrollar un 4+ y tuviera un modificador +1 al número de destino, solo tendría éxito en un rollo de 5 o 6. Del mismo modo si necesitara un 5+ y tuviera un modificador -2, lo haríaNecesita un 3 o más para tener éxito (5+, con el modificador menos 2 = 3+ para tener éxito) _.
 
-### Rerolls
-### vuelos
+### Repeticiones de tiradas
 
 Sometimes players will have the ability to  reroll  certain dice. This lets the player pick up dice that have produced an unsatisfactory result and roll them again. The result of the reroll always stands even if it is worse than the original. Rerolled dice may never be rerolled in any circumstances.
 A veces los jugadores tendrán la capacidad de revolcar ciertos dados.Esto le permite al jugador recoger dados que han producido un resultado insatisfactorio y volver a rodarlos.El resultado del vuelco siempre se mantiene incluso si es peor que el original.Es posible que los dados vuelvan a revelar nunca en ninguna circunstancia.
 
-## Tokens
 ## Contadores
 
 Dropfleet Commander uses tokens and markers to track certain actions or events during a game. Many of these are designed to give both players a visual reminder of continuing effects and unit placement, but some are for convenience as it is often easier to use a dice or token next to a miniature than it is to have to keep notes.
@@ -59,19 +55,16 @@ Los tokens están disponibles para descargar gratuita en la sección de recursos
 * Clusters, Sectors and Launch Assets
 * Grupos, sectores y activos de lanzamiento
 
-## Playing Space
-## Juego de espacio
+## Espacio de juego
 
 Dropfleet Commander is usually played over a 4ft x 4ft gaming area, and scenarios in this book are based on this as the combat area. Players may find it easier to play on slightly wider tables to have space for reserves, destroyed ship miniatures, spare dice, and other game components.
 Dropfleet Commander generalmente se reproduce en un área de juego de 4 pies x 4 pies, y los escenarios en este libro se basan en esto como el área de combate.Los jugadores pueden encontrar más fácil jugar en mesas ligeramente más amplias para tener espacio para reservas, miniaturas de barcos destruidas, dados de repuesto y otros componentes del juego.
 
-## Measuring distances
 ## Medición de distancias
 
 Dropfleet Commander uses inches for its unit of measurement. Players will need a tape measure or ruler marked in inches to measure distances. Throughout this book shorthand for measurements is used; quotation marks after a number indicate the inch distance, e.g. 12  would be 12 inches, 30  would 30 inches etc.
 Dropfleet Commander usa pulgadas para su unidad de medición.Los jugadores necesitarán una cinta métrica o una regla marcada en pulgadas para medir las distancias.A lo largo de este libro, se utiliza la taquigrafía para las mediciones;comillas después de un número indican la distancia de pulgada, p.12 sería de 12 pulgadas, 30 volarían 30 pulgadas, etc.
 
-### Pre-measuring
 ### Pre-medición
 
 In Dropfleet Commander it is perfectly fine to pre-measure distances before moving or shooting, or at any time in between. Any  fog of war  is taken into account in the game rules already and your captains (or equivalents) have the very best detection and calculation equipment of a future universe on hand. This means that players may measure any distances at any time.
@@ -80,8 +73,7 @@ En Dropfleet Commander, está perfectamente bien medir distancias antes de mover
 Note that while pre-measuring means that any player may measure any distance at any time, sportsmanship should be considered and players are encouraged to take each other s word on measurements. Measuring every distance straight after your opponent has done just that leads to a very negative gaming experience all round.
 Tenga en cuenta que si bien la medición previa significa que cualquier jugador puede medir cualquier distancia en cualquier momento, se debe considerar la deportividad y se alienta a los jugadores a tomar la palabra entre sí sobre las mediciones.Medir cada distancia directa después de que su oponente ha hecho justo que conduzca a una experiencia de juego muy negativa en general.
 
-## Miniatures
-## miniaturas
+## Miniaturas
 
 Miniatures are the models you use for playing the game. In Dropfleet miniatures means one thing - ships; big ships, little ships, swarming fighters, kill-hungry bombers, torpedoes, drones, space stations, satellites and more.
 Las miniaturas son los modelos que usas para jugar.En dropfleet miniaturas significa una cosa: barcos;Grandes barcos, pequeños barcos, combatientes enjambres, bombarderos hambrientos de matar, torpedos, drones, estaciones espaciales, satélites y más.
@@ -89,14 +81,12 @@ Las miniaturas son los modelos que usas para jugar.En dropfleet miniaturas signi
 For the purposes of clarity and ease of use, all distances in the game are measured from the flight stem of each ship or asset unless otherwise stated in specific rules.
 Para fines de claridad y facilidad de uso, todas las distancias en el juego se miden desde el vástago de vuelo de cada barco o activo a menos que se indique lo contrario en reglas específicas.
 
-### Base Contact
-### Contacto base
+### Contacto de peanas
 
 Occasionally the rules will reference game objects being  in contact  or tell players to place tokens or other game elements in  base contact  with a miniature s base as a way of showing that a ship is in close proximity to something. In the case of ships with very large or irregular shaped bases this may not be possible   in such cases, place the token, ship etc. as close as possible to the base, or use a  Traffic Jam token as detailed below.
 Ocasionalmente, las reglas harán referencia a los objetos del juego en contacto o les dirán a los jugadores que colocen tokens u otros elementos del juego en contacto base con una base en miniatura como una forma de mostrar que un barco está muy cerca de algo.En el caso de los barcos con bases de forma muy grande o irregular, esto puede no ser posible en tales casos, coloque el token, el barco, etc. lo más cerca posible de la base o use un token de atasco de tráfico como se detalla a continuación.
 
-### Traffic James and Ship Placement
-### Traffic James y la colocación del barco
+### Atasco y la colocación de las naves
 
 An unfortunate reality of moving miniatures around on the tabletop is that occasionally you ll end with a 'traffic jam' where several miniatures need to be in the same place (or close to it) at the same time. This is especially true of larger ships which can overhang their bases by a considerable distance, but it can happen with the smallest of vessels as well. Movement in Dropfleet is generally flexible enough that a ship almost never has to move to an exact spot so the problems usually arise from trying to squeeze the last possible inch of movement or keep a weapon system in arc to fire.
 Una desafortunada realidad de mover miniaturas en la mesa es que ocasionalmente terminará con un 'atasco de tráfico' donde varias miniaturas deben estar en el mismo lugar (o cerca) al mismo tiempo.Esto es especialmente cierto para los barcos más grandes que pueden sobresalir sus bases en una distancia considerable, pero también puede suceder con los vasos más pequeños.El movimiento en Dropfleet es generalmente lo suficientemente flexible como para que un barco casi nunca tenga que moverse a un lugar exacto, por lo que los problemas generalmente surgen de tratar de exprimir la última pulgada posible de movimiento o mantener un sistema de armas en arco para disparar.
@@ -107,8 +97,7 @@ La solución es usar un marcador para mostrar la posición exacta de los barcos 
 Note that while not the best way of playing in tournaments or competitive play, some Players may decide on a different house rule for this situation. Simply rule that ships may not move to any position where they cannot be physically placed. This speeds up the game and reduces the use of tokens. However, it is not a fool proof option   in certain situations this can cause problems due to relative miniature size and placement when interacting with order. If it causes problems (even in friendly games), revert to using markers as above.
 Tenga en cuenta que, si bien no es la mejor manera de jugar en torneos o juego competitivo, algunos jugadores pueden decidir una regla de la casa diferente para esta situación.Simplemente gobierne que los barcos pueden no moverse a ninguna posición donde no sean colocados físicamente.Esto acelera el juego y reduce el uso de tokens.Sin embargo, no es una opción infalible en ciertas situaciones, esto puede causar problemas debido al tamaño y la colocación de la miniatura relativa al interactuar con el orden.Si causa problemas (incluso en juegos amistosos), vuelva a usar marcadores como se indicó anteriormente.
 
-### Groups & Battlegroups
-### Grupos y grupos de batalla
+### Grupos y Grupos de Batalla
 
 Los barcos individuales en Dropfleet Commander siempre pertenecen a un grupo.Múltiples grupos pertenecen a un grupo de batalla.Vale la pena señalar la clara diferencia entre grupos y grupos de batalla, ¡ya que aparece mucho!
 Individual ships in Dropfleet Commander always belong to a Group. Multiple Groups belong to a Battlegroup. It s worth noting the distinct difference between Groups and Battlegroups, as it comes up a lot!
@@ -149,8 +138,7 @@ En el caso de que un barco se encuentre fuera del rango de coherencia (generalme
 Some Groups have a special open coherency (most notably strike carriers and other troop deploying ships). These Ships do not have to maintain coherency and are not subject to either Battlegroup or Group coherency rules   they are effectively autonomous, though must still obey the rules for orders/special orders as their battlegroup.
 Algunos grupos tienen una coherencia abierta especial (sobre todo los transportistas de ataque y otros barcos de despliegue de tropas).Estos barcos no tienen que mantener la coherencia y no están sujetas a reglas de coherencia de batalla o de grupo, son efectivamente autónomas, aunque aún deben obedecer las reglas para órdenes/órdenes especiales como su grupo de batalla.
 
-## Battlegroup cohesion
-## Cohesión de BattleGroup
+## Cohesión de Grupos de Batalla
 
 The individual groups that make up a battlegroup are free to split up as much as they wish, but they avoid penalties to the battlegroup s overall effectiveness by staying closer together. When it comes to comparing Strategy Ratings (see Strategy Ratings for more details), **a battlegroup temporarily increases its Strategy Rating by +1 for each of its groups that is more than 12  away from any other group in the same battlegroup**.
 Los grupos individuales que conforman un grupo de batalla son libres de dividirse tanto como deseen, pero evitan las penalizaciones para la efectividad general del grupo de batalla al mantenerse más juntos.Cuando se trata de comparar las calificaciones de la estrategia (vea las calificaciones de la estrategia para obtener más detalles), ** un grupo de batalla aumenta temporalmente su calificación de estrategia en +1 para cada uno de sus grupos que está a más de 12 de cualquier otro grupo en el mismo grupo de batalla. **
@@ -158,8 +146,7 @@ Los grupos individuales que conforman un grupo de batalla son libres de dividirs
 Special rules can increase or decrease the standard 12  coherency distance for battlegroups.
 Las reglas especiales pueden aumentar o disminuir la distancia de coherencia estándar 12 para grupos de batalla.
 
-## Disagreements
-## desacuerdos
+## Desacuerdos
 
 The rules are written to cover as many conceivable eventualities as possible, but there will always be occasions where obscure situations are not addressed. If re- reading the relevant rules section does not provide an answer to a problem, and the players cannot agree on how to proceed, simply have one player roll a dice. On a 1-3 one interpretation is correct, on a 4-6 it is the other. This makes for a fair and impartial ruling when players can t agree, and stops further arguments.
 Las reglas están escritas para cubrir tantas eventualidades concebibles como sea posible, pero siempre habrá ocasiones en que no se aborden situaciones oscuras.Si la nueva lectura de la sección Reglas relevantes no proporciona una respuesta a un problema, y los jugadores no pueden estar de acuerdo en cómo proceder, simplemente haga que un jugador tire de los dados.En un 1-3 una interpretación es correcta, en un 4-6 es el otro.Esto lo convierte en una decisión justa e imparcial cuando los jugadores no pueden estar de acuerdo y detiene más argumentos.

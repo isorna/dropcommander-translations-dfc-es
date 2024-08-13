@@ -48,7 +48,7 @@ Los jugadores deben elegir si quieren levantar escudos en el momento que se elig
 
 Las naves generalmente tienen Defensas de punto como otra linea de defensa que protege específicamente contra daño provocado por **Lanzamiento de activos y sistemas de armas de corto alcance"**.
 
-Cuando una nave recibe daño de este tipo de fuentes lanza un número de dadso igual al valor de PD de la nave. **ECada dado de Punto de defensa que obtenga un resultado de 5 o 6 bloqueará un punto de Daño en el casco antes de realizar las tiradas de salvación por armadura**.
+Cuando una nave recibe daño de este tipo de fuentes lanza un número de dadso igual al valor de PD de la nave. **Cada dado de Punto de defensa que obtenga un resultado de 5 o 6 bloqueará un punto de Daño en el casco antes de realizar las tiradas de salvación por armadura**.
 
 Los impactos críticos **pueden** ser bloqueados por Defensas de punto, pero cada punto de daño crítico requiere **dos** éxitos en Defensa de punto en lugar de uno.
 
@@ -149,7 +149,7 @@ Varios resultados de Daño incapacitante infligen daños adicionales en Casco en
     <tr>
       <td></td>
       <td>5-6</td>
-      <td><strong>Reactor sobrecargado:</strong> Vuelve a tirar otra vez en la tabla de Daño paralizante.</td>
+      <td><strong>Reactor sobrecargado:</strong> Vuelve a tirar otra vez en la tabla de Daño incapacitante.</td>
       <td>3</td>
       <td>No</td>
       <td>Sí</td>
@@ -314,7 +314,7 @@ Hay que tener en cuenta que la explosión únicamente afecta a naves que se encu
     </tr>
     <tr>
       <td>3</td>
-      <td><strong>Immolación:</strong> Todas las naves completamente a 8&quot; obtienen un Pico mañyor y 1d3 Fuegos (Ver Daño paralizante).</td>
+      <td><strong>Immolación:</strong> Todas las naves completamente a 8&quot; obtienen un Pico mañyor y 1d3 Fuegos (Ver Daño incapacitante).</td>
     </tr>
     <tr>
       <td>4</td>
@@ -333,7 +333,7 @@ Hay que tener en cuenta que la explosión únicamente afecta a naves que se encu
 
 ## Control de daños
 
-Lanza 1d6 por cada Daño paralizante que requiera reparación **en la fase final del turno de juego**. La Armadura o Contramedidas pasivas no pueden prevenir Daños en el Casco que procedan de esta fuente.
+Lanza 1d6 por cada Daño incapacitante que requiera reparación **en la fase final del turno de juego**. La Armadura o Contramedidas pasivas no pueden prevenir Daños en el Casco que procedan de esta fuente.
 
 ### Tabla de control de daños
 
@@ -364,6 +364,6 @@ Lanza 1d6 por cada Daño paralizante que requiera reparación **en la fase final
 
 Varios resultados de Daño incapacitante hacen que una nave esté sujeta a Caída orbital. Sus anuladores de gravedad han dejado de funcionar, haciendo que la nave comience a precipitarse contra la superficie del planeta.
 
-La Caída Orbital es un efecto adicional de Daño incapacitante que causa que la nave se mueva un nivel orbital hacia abajo en la fase de final de ronda. Puede ser lanzada como parte del Control de daños en dicha fase, de la misma manera que cualquier otro efecto Paralizante.
+La Caída Orbital es un efecto adicional de Daño incapacitante que causa que la nave se mueva un nivel orbital hacia abajo en la fase de final de ronda. Puede ser lanzada como parte del Control de daños en dicha fase, de la misma manera que cualquier otro efecto incapacitante.
 
 **Cualquier nave que no tenga la regla Atmosférico que se mueve al nivel de Atmósfera debido a una Caída orbital es eliminada directamente de juego sin realizar tirada en la Tabla de Daño Catastrófico**.

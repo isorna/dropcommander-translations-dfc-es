@@ -1,6 +1,6 @@
 ---
 title: 'Glosario'
-excerpt: 'Glosario de términos'
+excerpt: 'Glosario de términos de juego'
 position: 7
 ---
 

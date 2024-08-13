@@ -54,19 +54,19 @@ Most units are equipped with weapons capable of delivering death and destruction
 
 **Move and Fire - M&F** - The maximum distance the unit may move and still fire the weapon. A dash here shows that the unit may move its full distance and still fire the weapon. If a unit shoots before moving, it cannot then move further than the M&F value.
 
-**Arc of Fire - Arc** - Describes the angles at which the weapon can fire relative to the model’s central axis.
+**Arc of Fire - Arc** - Describes the angles at which the weapon can fire relative to the model's central axis.
 
 **Full Range - R(F)** - Represents the maximum effective range of the weapon. Weapons with a range value represented by a ∞ symbol have essentially an infinite range within the confines of the game table. Weapons with a range value of CQ are called Close Quarters weapons and require the attacking unit to be in the same Garrison as the target.
 
 **Countered Range - R(C)** - Represents the effective range of the weapon against targets which employ Active countermeasures.
 
-**Shots (S)** - The number of shots a weapon has. Note that this purely simulates the extra killing power of rapid fire weapons and does not always represent how many actual rounds are fired (a machine gun might fire dozens of bullets a second but won’t get dozens of shots).
+**Shots (S)** - The number of shots a weapon has. Note that this purely simulates the extra killing power of rapid fire weapons and does not always represent how many actual rounds are fired (a machine gun might fire dozens of bullets a second but won't get dozens of shots).
 
 **Accuracy (Acc)** - Represents the accuracy of the weapon. This is the dice roll value required when rolling to hit (lower target numbers are better). Weapons with a dash or a value of 0 automatically hit.
 
 **Energy (E)** - Represents the destructive power of the weapon.
 
-**Special** - Any special rules which apply to the weapon. Any special rules which are not outlined in the "Special Rules" section of the rulebook will be described below the unit’s weapon profile.
+**Special** - Any special rules which apply to the weapon. Any special rules which are not outlined in the "Special Rules" section of the rulebook will be described below the unit's weapon profile.
 
 ## Check Movement
 
