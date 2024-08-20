@@ -118,7 +118,7 @@ Varios resultados de Daño incapacitante infligen daños adicionales en Casco en
       <td>Sí</td>
     </tr>
     <tr>
-      <td rowspan="3">3-4 Hull</td>
+      <td rowspan="3">3-4 Casco</td>
       <td>1-2</td>
       <td><strong>Éscaner desactivado:</strong> El valor de Escáner se reduce a 1".</td>
       <td>0</td>
