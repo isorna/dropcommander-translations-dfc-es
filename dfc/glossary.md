@@ -1,7 +1,7 @@
 ---
 title: 'Glosario'
 excerpt: 'Glosario de términos de juego'
-position: 7
+position: 8
 ---
 
 # {{ $frontmatter.title }}
